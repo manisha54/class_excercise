@@ -1,4 +1,5 @@
 const  express = require('express')
+const Detail= require('../model/Detail')
 
 
 const router = express.Router()
